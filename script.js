@@ -22,7 +22,7 @@ window.onload = function()
         canvas.width = canvasWidth;
         canvas.height = canvasHeight;
         canvas.style.border = "30px solid #D4D4D4";
-        canvas.style.margin = "50px auto";
+        canvas.style.margin = "20px auto";
         canvas.style.display = "block";
         canvas.style.backgroundColor = "#E4E4E4" ;
         document.body.appendChild(canvas);//permet d'ajouter le tag canvas dans le body du fichier HTML
